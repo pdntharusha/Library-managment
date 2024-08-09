@@ -36,7 +36,7 @@ The Library Management System is a Python application designed to manage various
 
 3. Run the application:
     ```bash
-    python main.py
+    Library managment system.py
     ```
 
 ## Usage 🖥️
